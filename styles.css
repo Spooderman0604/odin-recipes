@@ -1,0 +1,26 @@
+/* Writing comments is different in CSS u absolute freak of nature */
+
+* {
+    color: purple;
+    font: sans-serif;
+}
+
+.title {
+    color: pink;
+}
+
+p {
+    color: violet;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+#brownie-pic, 
+#corned-beef-pic, 
+#steak-pic {
+    width: 500px;
+    height: auto;
+}
